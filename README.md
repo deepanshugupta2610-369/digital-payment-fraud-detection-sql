@@ -188,20 +188,6 @@ Instead of writing random SQL queries, this project answers real business questi
 
 ---
 
-# 💡 Key Business Insights
-
-Some interesting findings from the analysis include:
-
-- 💳 Card payments recorded the highest fraud volume.
-- 💸 Withdrawal transactions experienced more fraud than other transaction types.
-- 🔐 Higher failed login attempts were associated with increased fraud risk.
-- 📱 Android devices showed a slightly higher fraud rate.
-- 🌆 Hyderabad recorded the highest fraud volume among the available cities.
-- 🌍 Domestic transactions showed a marginally higher fraud rate than international transactions.
-- ⏰ Fraud activity was concentrated around specific hours of the day.
-- 💰 Transaction amount alone was not a strong indicator of fraud.
-
-
 # 📊 Key Business Insights
 
 After analyzing **7,500 digital payment transactions**, several actionable fraud patterns emerged.
